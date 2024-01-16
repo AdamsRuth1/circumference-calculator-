@@ -10,9 +10,10 @@ background-color: rgb(214, 118, 118);
 label{
     margin-top: 20px;
     font-size: 20px;
+    text-align: center;
 }
 input{
-    width: 15%;
+    width: 20%;
     height: 50px;
     font-size: 20px;
     border: none;
@@ -21,7 +22,3 @@ input{
 button{
     width: 20%;
     height: 30px;
-    font-size: 20px;
-    margin-top: 20px;
-    border: none;
-}
