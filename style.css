@@ -13,7 +13,7 @@ label{
     text-align: center;
 }
 input{
-    width: 20%;
+    width: 50%;
     height: 50px;
     font-size: 20px;
     border: none;
@@ -21,4 +21,4 @@ input{
 }
 button{
     width: 20%;
-    height: 30px;
+    height: 50px;
